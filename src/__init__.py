@@ -53,6 +53,9 @@ def info():
             "chapters": {
                 "supported": "chapter" in provider.params.images,
                 "auto": provider.has.series.chapters
+            },
+            "params": {
+                "images": provider.params.images
             }
         }     
     return jsonify({"result": data})
