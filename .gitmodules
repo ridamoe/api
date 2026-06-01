@@ -1,7 +1,0 @@
-[submodule "lib/jidouteki"]
-	path = lib/jidouteki
-	url = https://github.com/ridamoe/jidouteki
-[submodule "lib/parsers"]
-	path = lib/parsers
-	url = https://github.com/ridamoe/parsers
-
